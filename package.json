@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-plugin-discovery",
+  "name": "@hamaryuginh/vue-cli-plugin-discovery",
   "version": "0.1.0",
   "description": "vue-cli plugin for routing discovery",
   "main": "index.js",

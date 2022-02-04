@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-discovery",
+  "version": "0.1.0",
+  "description": "vue-cli plugin for routing discovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "proprietary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamaryuginh/vue-cli-plugin-discovery.git"
+  },
+  "homepage": "https://github.com/hamaryuginh/vue-cli-plugin-discovery.git#readme"
+}
